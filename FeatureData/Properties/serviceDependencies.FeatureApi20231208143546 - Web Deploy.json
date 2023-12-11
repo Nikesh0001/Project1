@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "storage1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/FeatureApi20231208143546/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsconstring_37F197BD67, /subscriptions/f0e59dda-25dd-47e8-93bc-ff150cb573d1/resourcegroups/feature-mesh-online/providers/Microsoft.Web/sites/FeatureApi20231208143546/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsconstring_067E66806E",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/onlinestoragetable",
+      "type": "storage.azure",
+      "connectionId": "ConnectionStrings:constring",
+      "dynamicId": null
+    }
+  }
+}

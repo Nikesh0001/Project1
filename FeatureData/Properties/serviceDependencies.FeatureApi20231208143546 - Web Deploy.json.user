@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2023-12-08T09:10:39.7814449Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "feature-mesh-online"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "f0e59dda-25dd-47e8-93bc-ff150cb573d1"
+    }
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "FeatureApi.dll": {
+    "C:\\Users\\6145206\\source\\repos\\Project Meshhh\\FeatureAP-Onine-Storage-Table\\FeatureData\\AzureClientFactoryBuilderExtensions.cs": {
+      "AzureClientFactoryBuilderExtensions": {
+        "Azure.Core.Extensions.IAzureClientBuilder`2<Azure.Storage.Blobs.BlobServiceClient,Azure.Storage.Blobs.BlobClientOptions> AzureClientFactoryBuilderExtensions::AddBlobServiceClient(Microsoft.Extensions.Azure.AzureClientFactoryBuilder,System.String,System.Boolean)": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "15": 0,
+            "16": 0,
+            "18": 0
+          },
+          "Branches": [
+            {
+              "Line": 10,
+              "Offset": 2,
+              "EndOffset": 4,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 2,
+              "EndOffset": 15,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 18,
+              "EndOffset": 31,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        },
+        "Azure.Core.Extensions.IAzureClientBuilder`2<Azure.Storage.Queues.QueueServiceClient,Azure.Storage.Queues.QueueClientOptions> AzureClientFactoryBuilderExtensions::AddQueueServiceClient(Microsoft.Extensions.Azure.AzureClientFactoryBuilder,System.String,System.Boolean)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "27": 0,
+            "28": 0,
+            "30": 0
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 2,
+              "EndOffset": 4,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 2,
+              "EndOffset": 15,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 18,
+              "EndOffset": 31,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\6145206\\source\\repos\\Project Meshhh\\FeatureAP-Onine-Storage-Table\\FeatureData\\Controllers\\CommonController.cs": {
+      "CommonController": {
+        "System.Void CommonController::.ctor(IFeatureRepository)": {
+          "Lines": {
+            "10": 10,
+            "11": 10,
+            "12": 10,
+            "13": 10
+          },
+          "Branches": []
+        }
+      },
+      "CommonController/<>c": {
+        "FeatureEntity CommonController/<>c::<SearchFeatures>b__3_0(FeatureEntity)": {
+          "Lines": {
+            "55": 7,
+            "56": 7,
+            "57": 7,
+            "58": 7,
+            "59": 7
+          },
+          "Branches": []
+        }
+      },
+      "CommonController/<GetFeature>d__2": {
+        "System.Void CommonController/<GetFeature>d__2::MoveNext()": {
+          "Lines": {
+            "17": 5,
+            "19": 5,
+            "20": 5,
+            "22": 3,
+            "23": 2,
+            "24": 2,
+            "27": 1,
+            "28": 1,
+            "29": 1,
+            "30": 1,
+            "31": 1,
+            "33": 1,
+            "35": 2,
+            "36": 2,
+            "37": 2,
+            "39": 5
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 179,
+              "EndOffset": 181,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 22,
+              "Offset": 179,
+              "EndOffset": 199,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "CommonController/<SearchFeatures>d__3": {
+        "System.Void CommonController/<SearchFeatures>d__3::MoveNext()": {
+          "Lines": {
+            "44": 5,
+            "46": 5,
+            "47": 5,
+            "49": 4,
+            "50": 1,
+            "51": 1,
+            "54": 3,
+            "61": 3,
+            "64": 1,
+            "65": 1,
+            "66": 1,
+            "68": 5
+          },
+          "Branches": [
+            {
+              "Line": 49,
+              "Offset": 166,
+              "EndOffset": 168,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            },
+            {
+              "Line": 49,
+              "Offset": 166,
+              "EndOffset": 184,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 189,
+              "EndOffset": 191,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 49,
+              "Offset": 189,
+              "EndOffset": 225,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\6145206\\source\\repos\\Project Meshhh\\FeatureAP-Onine-Storage-Table\\FeatureData\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "2": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "34": 0,
+            "36": 0,
+            "38": 0,
+            "40": 0
+          },
+          "Branches": [
+            {
+              "Line": 28,
+              "Offset": 219,
+              "EndOffset": 221,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 219,
+              "EndOffset": 239,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "FeatureLibrary.dll": {
+    "C:\\Users\\6145206\\source\\repos\\Project Meshhh\\FeatureAP-Onine-Storage-Table\\FeatureLibrary\\DtoModels\\FeatureEntity.cs": {
+      "FeatureEntity": {
+        "System.String FeatureEntity::get_FeatureName()": {
+          "Lines": {
+            "17": 26
+          },
+          "Branches": []
+        },
+        "System.String FeatureEntity::get_Value()": {
+          "Lines": {
+            "19": 26
+          },
+          "Branches": []
+        },
+        "System.Void FeatureEntity::.ctor()": {
+          "Lines": {
+            "5": 16,
+            "6": 16,
+            "8": 16
+          },
+          "Branches": []
+        },
+        "System.Void FeatureEntity::.ctor(System.String,System.Int32)": {
+          "Lines": {
+            "10": 4,
+            "11": 4,
+            "12": 4,
+            "13": 4,
+            "14": 4
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\6145206\\source\\repos\\Project Meshhh\\FeatureAP-Onine-Storage-Table\\FeatureLibrary\\Reposiotry\\FeatureRepository.cs": {
+      "FeatureRepository": {
+        "System.Void FeatureRepository::.ctor(System.String,System.String)": {
+          "Lines": {
+            "11": 3,
+            "12": 3,
+            "13": 3,
+            "14": 2,
+            "15": 2,
+            "18": 1,
+            "19": 1,
+            "20": 1,
+            "21": 1
+          },
+          "Branches": [
+            {
+              "Line": 13,
+              "Offset": 16,
+              "EndOffset": 18,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 13,
+              "Offset": 16,
+              "EndOffset": 35,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "FeatureRepository/<RetrieveFeatureAsync>d__2": {
+        "System.Void FeatureRepository/<RetrieveFeatureAsync>d__2::MoveNext()": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "31": 0,
+            "32": 0
+          },
+          "Branches": []
+        }
+      },
+      "FeatureRepository/<SearchFeaturesByEntityAsync>d__3": {
+        "System.Void FeatureRepository/<SearchFeaturesByEntityAsync>d__3::MoveNext()": {
+          "Lines": {
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0,
+            "42": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
